@@ -1,0 +1,25 @@
+Facial recognition solution to open doors.
+
+Plan:
+
+High Res Web Cam to record face picture.
+Raspberry Pi to process the data.
+Using Raspbian as an OS
+Using libface for the face recognition.
+
+Magnetic door lock with network connection.
+
+On face being correct to one in the Pi database the signal is sent to unlock magnetic lock.
+
+Email sent to Administrator for unlock/lock process, data saved in entry.log
+
+Raspberry Login
+
+User/Pass and Google Authentication (new code every 60seconds)
+Access locked down to MAC Address.
+
+Database = MongoDB?
+
+Programming Language:
+
+Java Script?
