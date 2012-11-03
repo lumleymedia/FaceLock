@@ -23,3 +23,7 @@ Database = MongoDB?
 Programming Language:
 
 Java Script?
+
+Edit:
+
+Decided to make sure the project can work across a multiple of operating systems and develop test and build using the Pandaboard.
